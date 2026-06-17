@@ -23,7 +23,7 @@ Desenvolvedor focado em criar experiências web dinâmicas e interativas, unindo
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [Seu Nome]
+* **LinkedIn:** [Mateus Medeiros]
 * **E-mail:** mms1@icomp.ufam.edu.br
 
 ---
