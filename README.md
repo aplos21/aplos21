@@ -23,8 +23,8 @@ Desenvolvedor focado em criar experiências web dinâmicas e interativas, unindo
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-usuario)
-* **E-mail:** seu.email@exemplo.com
+* **LinkedIn:** [Seu Nome]
+* **E-mail:** mms1@icomp.ufam.edu.br
 
 ---
 
