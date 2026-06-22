@@ -1,6 +1,6 @@
 ## 🚀 Olá, eu sou o Mateus Medeiros
 
-Desenvolvedor focado em criar experiências web dinâmicas e interativas, unindo o poder do backend com soluções visuais modernas, incluindo projetos e portfólios 3D.
+Graduado em Ciência da Computação pela UFAM, sou um desenvolvedor focado em construir aplicações web robustas, escaláveis e eficientes, unindo uma sólida base lógica ao poder do desenvolvimento backend com Ruby on Rails.
 
 ---
 
@@ -9,21 +9,22 @@ Desenvolvedor focado em criar experiências web dinâmicas e interativas, unindo
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Backend & Infra** | ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Frontend & Ferramentas** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
 ### 🎯 No que estou trabalhando atualmente?
 
-* 🛸 Desenvolvendo um **Portfólio 3D interativo** utilizando **Ruby on Rails** no backend para gerenciar os projetos e integrando com renderizadores 3D no frontend.
-* 🐳 Containerizando minhas aplicações com **Docker** para garantir ambientes de desenvolvimento e produção idênticos e robustos.
+* 🍷 Aprimorando o **Winelog**, uma aplicação web completa em Rails 7 para gerenciamento de experiências com vinhos, utilizando a gem Devise para autenticação segura.
+* 🐳 Estudando a containerização de aplicações MVC com **Docker** para padronizar ambientes de desenvolvimento e produção.
+* 📈 Desenvolvendo APIs RESTful e aprofundando conhecimentos em modelagem de dados com Active Record.
 
 ---
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [Mateus Medeiros]
+* **LinkedIn:** [Mateus Medeiros](https://www.linkedin.com/in/mateus-medeiros-de-souza-95517813a)
 * **E-mail:** mms1@icomp.ufam.edu.br
 
 ---
